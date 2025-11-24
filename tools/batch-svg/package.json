@@ -1,0 +1,16 @@
+{
+  "name": "batch-svg",
+  "version": "1.0.0",
+  "description": "Batch QR Code SVG generator from URLs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["qrcode", "svg", "batch", "generator"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "jsdom": "^27.2.0"
+  }
+}
